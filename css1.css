@@ -1,0 +1,19 @@
+.div1{
+	border: 5px solid darkblue;
+	background-color: red;
+}
+
+.intro{
+	font-family: Arial;
+	font-size: large;
+}
+
+.parrafo1{
+	font-family: cursive;
+	font-size: xx-large;
+}
+
+.botones{
+	background-color: darkgreen;
+	border: 15px solid coral;
+}
